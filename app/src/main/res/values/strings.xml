@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PushNotificationDemoBAU</string>
+    <string name="new_amazing_title">New amazing title!</string>
+    <string name="triggered_in_app_message_content_and_view_has_been_changed">Triggered in-App message content and view has been changed.</string>
+    <string name="click">CLICK</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="my_android_notification">My Android Notification</string>
+    <string name="add_custom_view_to_app_message">Add Custom View to App Message</string>
+    <string name="remove_custom_view_from_app_message">Remove Custom View From App Message</string>
+</resources>
